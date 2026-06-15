@@ -1,3 +1,4 @@
+<img width="1918" height="873" alt="image" src="https://github.com/user-attachments/assets/cd0a2209-6a59-47ae-a89b-a08b45909bc6" />
 # Title
 Stellar Paywall: Pay-to-Unlock Content
 
