@@ -14,7 +14,6 @@ I built this project to solve the problem of monetizing small digital goods or p
 # Contract
 Contract link: https://stellar.expert/explorer/testnet/tx/709c90b7c80b4c505c31871e7ab4dffb246ea7e54421a41dd12e228274ea84f4
 
-*(Lưu ý cho bạn: Nhớ chèn/upload thêm 1 tấm ảnh chụp màn hình Soroban Studio lúc deploy thành công có chữ SUCCESS xanh lá cây vào bên dưới dòng này nhé)*
 
 # Future scopes
 My future plan is to integrate this smart contract directly into my personal web project, "Blog Hoàng Long", allowing me to token-gate premium technical articles. Furthermore, as I am highly interested in Artificial Intelligence, I plan to explore integrating AI models to auto-generate or summarize the premium content being unlocked on the platform.
